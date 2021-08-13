@@ -10,3 +10,6 @@ Questo repository raccoglie, attraverso allineamenti automatici, varie fonti dat
 4. Dati disponibili a livello internazionale.
 
 Lo scopo è quello di poter effettuare analisi comparative e complessive, non disperdendo le informazioni che vengono aggiornate quotidianamente, sostituendo il dato del giorno prima.
+Inoltre la raccolta consente di disporre di un luogo unico, ove reperire i set informativi.
+
+
